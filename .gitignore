@@ -1,3 +1,4 @@
 .pyc
+Analysis/db.sqlite3
 Analysis/analysis/__pycache__/
 Analysis/analysis/migrations/
